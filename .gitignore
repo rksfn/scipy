@@ -1,0 +1,20 @@
+# Conda environments
+.conda/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/Editor specific
+.virtual_documents/
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
