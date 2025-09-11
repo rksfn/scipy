@@ -24,4 +24,14 @@ This repository contains the notebooks and materials for the SciPy training prog
 *   [Day 13: Time Series Analysis with Pandas](./week2_advanced_topics_and_scientific_computing/day13_time_series_analysis_with_pandas.ipynb)
 *   [Day 14: Final Project](./week2_advanced_topics_and_scientific_computing/day14_final_project.ipynb)
 
-> **Note:** Hide the solutions from yourself before you start solving the exercises!!!
+# Important Guidelines for Exercises
+
+> **Note: Stay Disciplined!**  
+> To maximize your learning, **hide the solutions** before attempting the exercises. This helps you practice problem-solving and critical thinking.
+
+- **Follow These Steps:**
+  - Attempt each exercise on your own first.
+  - Refer to solutions only after giving it your best effort.
+  - Review the [LLM Tutor System Prompt](./LLM_TUTOR.md) for tips on learning effectively with large language models.
+
+ **Resource:** [LLM Tutor System Prompt](./LLM_TUTOR.md)
